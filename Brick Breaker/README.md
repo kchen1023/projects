@@ -1,0 +1,1 @@
+An interactive minigame that utilizes GUI, JPanel, threads, and ActionListener Keeps track of player score based on: the number of bricks broken number of balls that the player has on the screen menu screens depending on the status of game (play, pause, menu, dead, win)
